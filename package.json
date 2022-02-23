@@ -14,6 +14,7 @@
   "keywords": [
     "dictionary"
   ],
+  "type": "module",
   "author": "Aibek Sadraliev",
   "license": "ISC",
   "bugs": {
