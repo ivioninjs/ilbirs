@@ -1,0 +1,22 @@
+{
+  "name": "ilbirs",
+  "version": "1.0.0",
+  "description": "I haven`t found dictionary in kyrgyz language, because I decided create it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivioninjs/ilbirs.git"
+  },
+  "keywords": [
+    "dictionary"
+  ],
+  "author": "Aibek Sadraliev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivioninjs/ilbirs/issues"
+  },
+  "homepage": "https://github.com/ivioninjs/ilbirs#readme"
+}
