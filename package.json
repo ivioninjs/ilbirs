@@ -4,7 +4,8 @@
   "description": "I haven`t found dictionary in kyrgyz language, because I decided create it.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ivioninjs/ilbirs/issues"
   },
-  "homepage": "https://github.com/ivioninjs/ilbirs#readme"
+  "homepage": "https://github.com/ivioninjs/ilbirs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
